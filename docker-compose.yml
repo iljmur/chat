@@ -1,0 +1,7 @@
+version: '3.3'
+services:
+  chat:
+    build: .
+    restart: always
+    environment:
+      - "discovery.zen.ping.unicast.hosts=messenger"
