@@ -15,6 +15,6 @@
   "dependencies": {
     "mongodb": "^3.5.5",
     "node-env-run": "^3.0.2",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   }
 }
